@@ -30,7 +30,7 @@
 		<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
 
 			<div class="container">
-				<a class="navbar-brand" href="index.html">Famous Blocks</span></a>
+				<a class="navbar-brand" href="home">Famous Blocks</span></a>
 
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
@@ -39,7 +39,7 @@
 				<div class="collapse navbar-collapse" id="navbarsFurni">
 					<ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
 						<li class="nav-item active">
-							<a class="nav-link" href="index.html">Home</a>
+							<a class="nav-link" href="home">Home</a>
 						</li>
 						<li><a class="nav-link" href="shop.html">Shop</a></li>
 						<li><a class="nav-link" href="Estimate.html">Estimate</a></li>
@@ -50,7 +50,7 @@
 
 					<ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
 						<!-- <li><a class="nav-link" href="#"><img src="images/user.svg"></a></li> -->
-						<li><a class="nav-link" href="cart.html"><img src="images/cart.svg"></a></li>
+						<!-- <li><a class="nav-link" href="cart.html"><img src="images/cart.svg"></a></li> -->
 					</ul>
 				</div>
 			</div>
@@ -465,7 +465,7 @@
 
 				<div class="row g-5 mb-5">
 					<div class="col-lg-4">
-						<div class="mb-4 footer-logo-wrap"><a href="index.html" class="footer-logo">Famous Blocks</span></a></div>
+						<div class="mb-4 footer-logo-wrap"><a href="home" class="footer-logo">Famous Blocks</span></a></div>
 						<p class="mb-4">Famous Blocks is a creative agency that helps brands grow through our seamless customer experience, high quality prints, and interactive designs and strategies</p>
 
 						<ul class="list-unstyled custom-social">
